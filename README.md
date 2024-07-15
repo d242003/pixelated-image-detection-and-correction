@@ -1,0 +1,1 @@
+# pixelated-image-detection-and-correction
